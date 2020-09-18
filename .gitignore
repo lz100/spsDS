@@ -11,3 +11,4 @@ vignettes/*.html
 vignettes/*.pdf
 docs/reference/SPS_20*
 docs/reference/config
+.Rproj.user
