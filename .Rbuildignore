@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.gitignore
+.Rhistory
+^packrat/
+^\.Rprofile$
+^rsconnect/
+^.git/
+^.github/
+.idea/
+^docs/
+manifest.json
+_pkgdown.yml
+^TODO
+^vignettes/systemPipeShiny_cache/*
+^LICENSE\.md$

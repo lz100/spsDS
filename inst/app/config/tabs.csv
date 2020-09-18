@@ -1,0 +1,4 @@
+# List of SPS tabs,,,,,,,
+# Editing by hand is not recommended ,,,,,,,
+'# image paths use ''www'' folder as root',,,,,,,
+tab_id,display_label,type,type_sub,image,displayed,tab_file_name,plugin
